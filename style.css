@@ -1,0 +1,21 @@
+.jumbotron {
+    padding-top: 6rem;
+    background-color: #e2edff;
+}
+.navbar {
+    background: transparent;
+}
+
+
+/* #hero {
+    padding-top: 6rem;
+    background-color: #e2edff;
+} */
+
+#projects {
+    background-color: #e2edff;
+}
+
+/* section {
+    scroll-margin-top: 60px; use this when the navbar is not transparent
+} */ 
