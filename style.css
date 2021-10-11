@@ -1,21 +1,38 @@
-.jumbotron {
-    padding-top: 6rem;
-    background-color: #e2edff;
-}
-.navbar {
-    background: transparent;
-}
-
-
-/* #hero {
+/* .jumbotron {
     padding-top: 6rem;
     background-color: #e2edff;
 } */
+
+.personalLogo {
+    width: 2em
+}
+
+.heroPersonalLogo {
+    /* background-color: black; */
+    width: 20em
+}
+
+#hero {
+    padding-top: 6rem;
+    /* background-color: #e2edff; */
+}
+
+.heroText {
+    font-family: 'Architects Daughter', cursive;
+}
+
+.heroText h1 {
+    font-size: 80px;
+}
+
 
 #projects {
     background-color: #e2edff;
 }
 
-/* section {
-    scroll-margin-top: 60px; use this when the navbar is not transparent
-} */ 
+
+@media only screen and (max-width: 600px) {
+    .prankText {
+        font-size: 18px;
+    }
+  }
